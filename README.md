@@ -13,6 +13,7 @@ This is a simple webpage to display Instagram-like stories.
 ![image](https://github.com/itz-gaurav74/Instagram-Story-Section/assets/116722012/2898806d-11df-48a9-89d6-4f527b30ed6a)
  ![image](https://github.com/itz-gaurav74/Instagram-Story-Section/assets/116722012/b5f242e5-bdca-4dac-9d08-4b477b2a6055)
 
+<a href="https://itz-gaurav74.github.io/Instagram-Story-Section/">Visit Site</a>
 
 
 ## Getting Started
